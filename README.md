@@ -1,2 +1,3 @@
-# info2180-lab1
-For INFO2180, lol
+# INFO2180 Lab 1
+
+This is Lab 1 for Keanu Thompson
